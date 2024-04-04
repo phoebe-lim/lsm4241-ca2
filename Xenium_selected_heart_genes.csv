@@ -1,0 +1,21 @@
+Gene,Ensembl_ID,Num_Probesets,Codewords,Annotation
+ASCL3,ENSG00000176009,7,1,Heart - cardiomyocytes
+CD83,ENSG00000112149,8,1,"General - B cells,General - Granulocytes,General - Macrophages,General - Monocytes,Heart - Cardiomyocytes,Liver - Kupffer cells,Lung - Alveolar cells type 2,Skin - Langerhans cells"
+DES,ENSG00000175084,4,1,"General - Smooth muscle cells,Heart - Cardiomyocytes"
+DST,ENSG00000151914,8,1,"Breast - Breast myoepithelial cells,Colon - Distal enterocytes,Colon - Paneth cells,General - Endothelial cells,General - Fibroblasts,General - Smooth muscle cells,Heart - Cardiomyocytes,Liver - Cholangiocytes,Lung - Alveolar cells type 1,Lung - Club cells,Pancreas - Ductal cells,Pancreas - Pancreatic endocrine cells,Skin - Basal keratinocytes"
+FHL2,ENSG00000115641,8,1,"Breast - Breast glandular cells,Breast - Breast myoepithelial cells,Colon - Distal enterocytes,Colon - Paneth cells,General - Fibroblasts,General - Smooth muscle cells,Heart - Cardiomyocytes,Pancreas - Ductal cells,Pancreas - Pancreatic endocrine cells,Skin - Basal keratinocytes,Skin - Suprabasal keratinocytes"
+LPL,ENSG00000175445,4,1,"Breast - Adipocytes,Breast - Breast glandular cells,General - Endothelial cells,General - Macrophages,General - Smooth muscle cells,Heart - Cardiomyocytes,Lung - Alveolar cells type 2"
+MTRNR2L11,ENSG00000270188,8,1,"Heart - Cardiomyocytes,Kidney - Proximal tubular cells"
+MYBPC1,ENSG00000196091,8,1,"Breast - Breast glandular cells,Heart - Cardiomyocytes"
+PLIN4,ENSG00000167676,4,1,Heart - cardiomyocytes
+PPP1R1A,ENSG00000135447,8,1,"Heart - Cardiomyocytes,Kidney - Distal tubular cells,Liver - Hepatocytes"
+PROX1,ENSG00000117707,8,1,"Colon - Enteroendocrine cells,General - Endothelial cells,Heart - Cardiomyocytes,Liver - Cholangiocytes,Liver - Hepatocytes"
+PTGDS,ENSG00000107317,4,1,"General - Endothelial cells,General - Fibroblasts,General - T cells,Heart - Cardiomyocytes,Kidney - Collecting duct cells"
+S100A1,ENSG00000160678,4,1,"Breast - Breast glandular cells,Heart - Cardiomyocytes,Kidney - Proximal tubular cells,Skin - Melanocytes"
+SH2D3C,ENSG00000095370,8,1,"General - Endothelial cells,Heart - Cardiomyocytes"
+,,,,
+cardiomyocytes,"ASCL3, MTRNR2L11, MYBPC1, PLIN4, PPP1R1A, S100A1",,,
+fibroblasts,"APCDD1, CFB, CFHR1, COCH, CTSK, DIRAS3, DPEP1, DPT, FBLN1, GPC3, GPRC5A, LTBP2, MEDAG, MEST, OGN, PDGFRA, PRG4, PTN, SEMA3C, SFRP4, TAC1, UPK3B",,,
+smooth muscle cells,"ACE2, ACTG2, CNN1, GPC1, HES4, LGI4, MYH11, MYLK, NTN4, PCP4, RERGL, STEAP4, TNC",,,
+endothelial cells,"ACKR1, ADGRL4, BMX, BTNL9, CAVIN2, CLEC14A, CSF3, DNASE1L3, ECSCR, EDN1, EGFL7, ERG, GNG11, LYVE1, MALL, MCF2L, MET, MMRN1, NPDC1, RAMP2, RAPGEF3, RND1, SCGN, SELE, SNCA, SOX17, STC1, TBX3, TCIM, TIMP4, TM4SF18, VWF",,,
+immune cells,"ADAM28, AIF1, BANK1, C1orf162, CCR7, CD247, CD27, CD28, CD69, GPR183",,,
